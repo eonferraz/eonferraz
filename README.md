@@ -18,6 +18,7 @@
 
 🧠 Interesso-me por IA aplicada a PMEs, engenharia de dados e produtos digitais com alto impacto.
 
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
