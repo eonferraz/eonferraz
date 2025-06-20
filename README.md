@@ -46,10 +46,10 @@
 ## 🔗 Conecte-se comigo
 
 <p align="center">
-  <a href="mailto:paulo.ferraz@sxgroup.com.br">
+  <a href="mailto:eonferraz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/pauloeduardoferraz/">
+  <a href="https://www.linkedin.com/in/eonferraz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
