@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Paulo Eduardo Ferraz</h1>
+<h1 align="center">👋 Olá, eu sou o Paulo Eduardo Ferraz!</h1>
 
 <p align="center">
   <em>Data Scientist | Especialista em Business Intelligence | Automação de Processos | SAP & Sankhya Integrator</em>
