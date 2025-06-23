@@ -10,8 +10,9 @@
 
 🎯 Apaixonado por transformar dados em decisões estratégicas, atuo como Head de Tecnologia na SX Group, onde lidero projetos de automação, inteligência de dados e integração entre sistemas.
 
+
 🚀 Tenho experiência com:
-- Desenvolvimento de **dashboards financeiros e comerciais** em Power BI e Streamlit
+- Desenvolvimento de **dashboards financeiros e comerciais** em Power BI, Streamlit e Looker
 - **ETL e Data Engineering** com Python, SQL e VBA
 - Integrações com **ERPs como SAP Business One e Sankhya**
 - Automação de tarefas com **macros VBA, APIs e Python**
