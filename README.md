@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 📊 Sobre mim
 
 🎯 Apaixonado por transformar dados em decisões estratégicas, atuo como Head de Tecnologia na SX Group, onde lidero projetos de automação, inteligência de dados e integração entre sistemas.
