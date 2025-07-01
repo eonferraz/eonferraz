@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Paulo Eduardo Ferraz!</h1>
+<h1 align="center"> Olá, eu sou o Paulo Eduardo Ferraz!</h1>
 
 <p align="center">
   <em>Data Scientist | Especialista em Business Intelligence | Automação de Processos | SAP & Sankhya Integrator</em>
@@ -7,22 +7,22 @@
 ---
 
 
-## 📊 Sobre mim
+## Sobre mim
 
-🎯 Apaixonado por transformar dados em decisões estratégicas, atuo como Head de Tecnologia na SX Group, onde lidero projetos de automação, inteligência de dados e integração entre sistemas.
+ Apaixonado por transformar dados em decisões estratégicas, atuo como Head de Tecnologia na SX Group, onde lidero projetos de automação, inteligência de dados e integração entre sistemas.
 
 
-🚀 Tenho experiência com:
+## Tenho experiência com:
 - Desenvolvimento de **dashboards financeiros e comerciais** em Power BI, Streamlit e Looker
 - **ETL e Data Engineering** com Python, SQL e VBA
 - Integrações com **ERPs: SAP Business One, Totvs Protheus e Sankhya**
 - Automação de tarefas com **macros VBA, APIs e Python**
 
-🧠 Interesso-me por IA aplicada a PMEs, engenharia de dados e produtos digitais com alto impacto.
+Interesso-me por IA aplicada a PMEs, engenharia de dados e produtos digitais com alto impacto.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,7 +37,7 @@
 ---
 
 
-## 🔗 Conecte-se comigo
+## Meu contatos
 
 <p align="center">
   <a href="mailto:eonferraz@gmail.com">
@@ -50,6 +50,3 @@
 
 ---
 
-<p align="center">
-  <em>“Transformar dados em estratégia é mais que um trabalho, é minha missão.”</em>
-</p>
