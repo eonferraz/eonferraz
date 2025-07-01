@@ -15,7 +15,7 @@
 🚀 Tenho experiência com:
 - Desenvolvimento de **dashboards financeiros e comerciais** em Power BI, Streamlit e Looker
 - **ETL e Data Engineering** com Python, SQL e VBA
-- Integrações com **ERPs como SAP Business One e Sankhya**
+- Integrações com **ERPs: SAP Business One, Totvs Protheus e Sankhya**
 - Automação de tarefas com **macros VBA, APIs e Python**
 
 🧠 Interesso-me por IA aplicada a PMEs, engenharia de dados e produtos digitais com alto impacto.
