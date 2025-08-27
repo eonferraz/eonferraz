@@ -1,28 +1,34 @@
-<h1 align="center"> Olá, eu sou o Paulo Eduardo Ferraz!</h1>
+<h1 align="center"> Hi, I'm Paulo Eduardo Ferraz! </h1>
 
 <p align="center">
-  <em>Data Scientist | Especialista em Business Intelligence | Automação de Processos | SAP & Sankhya Integrator</em>
+  <em>Head of Technology | Data Scientist | Business Intelligence Specialist | Process Automation | ERP Integrator (SAP & Sankhya)</em>
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
-## Sobre mim
+I’m passionate about transforming data into strategic decisions.  
+Currently, I work as **Head of Technology at SX Group**, leading projects in **process automation, data intelligence, financial analytics, and ERP integrations**.  
 
- Apaixonado por transformar dados em decisões estratégicas, atuo como Head de Tecnologia na SX Group, onde lidero projetos de automação, inteligência de dados e integração entre sistemas.
-
-
-## Tenho experiência com:
-- Desenvolvimento de **dashboards financeiros e comerciais** em Power BI, Streamlit e Looker
-- **ETL e Data Engineering** com Python, SQL e VBA
-- Integrações com **ERPs: SAP Business One, Totvs Protheus e Sankhya**
-- Automação de tarefas com **macros VBA, APIs e Python**
-
-Interesso-me por IA aplicada a PMEs, engenharia de dados e produtos digitais com alto impacto.
+I also run **Peakminds**, a consulting company focused on **Business Intelligence, data integration, and quality control solutions**, where I help businesses unlock value from their data.
 
 ---
 
-## Tecnologias e Ferramentas
+## 🚀 Experience
+
+- Building **financial and commercial dashboards** with **Power BI, Streamlit, Looker, and Excel automation**
+- Designing **ETL pipelines & Data Engineering solutions** with **Python, SQL (Oracle, SQL Server, PostgreSQL), and VBA**
+- Developing **ERP integrations** with **SAP Business One, Sankhya, and Totvs Protheus**
+- Automating workflows with **APIs, VBA macros, and Python scripts**
+- Implementing **data-driven decision systems** for **cash flow, sales, and supply chain**
+- Experience with **luminotechnical calculations**, **quality control systems**, and **predictive models for business scenarios**
+
+I’m particularly interested in **AI for SMEs**, **data engineering**, and **digital products with high impact**.
+
+---
+
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,13 +37,14 @@ Interesso-me por IA aplicada a PMEs, engenharia de dados e produtos digitais com
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sankhya-FF6600?style=for-the-badge"/>
 </p>
 
 ---
 
-
-## Meu contatos
+## 📬 Contact Me
 
 <p align="center">
   <a href="mailto:eonferraz@gmail.com">
@@ -49,4 +56,3 @@ Interesso-me por IA aplicada a PMEs, engenharia de dados e produtos digitais com
 </p>
 
 ---
-
