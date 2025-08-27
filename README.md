@@ -11,7 +11,7 @@
 I’m passionate about transforming data into strategic decisions.  
 Currently, I work as **Head of Technology at SX Group**, leading projects in **process automation, data intelligence, financial analytics, and ERP integrations**.  
 
-I also run **Peakminds**, a consulting company focused on **Business Intelligence, data integration, and quality control solutions**, where I help businesses unlock value from their data.
+I also run **Benu**, a consulting company focused on **Business Intelligence, data integration, and quality control solutions**, where I help businesses unlock value from their data.
 
 ---
 
