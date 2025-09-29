@@ -44,6 +44,19 @@ I’m particularly interested in **AI for SMEs**, **data engineering**, and **di
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eonferraz&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eonferraz&theme=radical" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eonferraz&theme=radical" alt="Profile Details"/>
+</p>
+
+---
+
 ## 📬 Contact Me
 
 <p align="center">
